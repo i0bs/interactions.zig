@@ -1,0 +1,12 @@
+[submodule "lib/websocket.zig"]
+	path = lib/websocket.zig
+	url = https://github.com/karlseguin/websocket.zig
+[submodule "lib/http.zig"]
+	path = lib/http.zig
+	url = https://github.com/karlseguin/http.zig
+[submodule "lib/validate.zig"]
+	path = lib/validate.zig
+	url = https://github.com/karlseguin/validate.zig
+[submodule "lib/cache.zig"]
+	path = lib/cache.zig
+	url = https://github.com/karlseguin/cache.zig
